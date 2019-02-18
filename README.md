@@ -1,0 +1,2 @@
+# ng6Pwa
+It is a simple one page PWA (Progressive web applications) build on Angular 6. Whether it’s the offline customization or the seamless deployment, PWAs are certainly among the most efficient ways to run a web app, and their popularity will continue to expand.This uses a open source API for Chuck Norris jokes. Every time you refresh the page, you get a new joke. It works even if you are offline. This is the beauty of a PWA. 
